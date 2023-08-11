@@ -2,7 +2,7 @@
     "templates": [
         {
             "name": "Demo",
-            "file": "demo.zip"
+            "file": "templates/Demo.zip"
         }
     ]
 }
