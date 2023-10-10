@@ -3,6 +3,12 @@
         {
             "name": "Demo",
             "file": "templates/Demo.zip"
+        },
+        {
+            "name": "CoderDocs",
+            "file": "templates/CoderDocs_202310.zip",
+            "description": "",
+            "version": "1.0"
         }
     ]
 }
